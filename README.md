@@ -1,6 +1,6 @@
 # ESP32-based-lighting-system
 
-## Graduate design record
+## Graduate design
 
 人体红外控制照明系统的设计与制作（制作中）
 
